@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0005-longest-palindromic-substring) |
 | [0143-reorder-list](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0143-reorder-list) |
 ## Stack
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0143-reorder-list) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
