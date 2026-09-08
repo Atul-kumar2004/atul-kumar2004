@@ -35,4 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0735-asteroid-collision) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
