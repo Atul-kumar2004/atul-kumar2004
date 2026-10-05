@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0143-reorder-list) |
 ## Stack
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0006-zigzag-conversion) |
+| [0125-valid-palindrome](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
