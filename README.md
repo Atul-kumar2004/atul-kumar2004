@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0125-valid-palindrome) |
+| [0796-rotate-string](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/1108-defanging-an-ip-address) |
 ## Dynamic Programming
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
