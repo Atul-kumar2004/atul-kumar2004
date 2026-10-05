@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0006-zigzag-conversion) |
+| [0038-count-and-say](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/1108-defanging-an-ip-address) |
