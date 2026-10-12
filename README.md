@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0796-rotate-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0796-rotate-string) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
