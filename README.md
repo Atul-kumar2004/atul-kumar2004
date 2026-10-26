@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0125-valid-palindrome) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0031-next-permutation) |
 | [0217-contains-duplicate](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0217-contains-duplicate) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atul-kumar2004/atul-kumar2004/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
